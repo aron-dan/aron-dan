@@ -1,4 +1,5 @@
-### Hi there 👋
+Daniel Aron
+https://www.linkedin.com/in/daniel-aron-6195b0209/ 
 
 <!--
 **aron-dan/aron-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
