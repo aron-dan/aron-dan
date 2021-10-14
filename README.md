@@ -1,17 +1,14 @@
-Daniel Aron
-https://www.linkedin.com/in/daniel-aron-6195b0209/ 
+### Daniel Aron
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel_Aron-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daniel-aron-6195b0209//)](https:https://www.linkedin.com/in/daniel-aron-6195b0209/) 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-<!--
-**aron-dan/aron-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Learning :** C# and Java| Open-Source
+-  **Hobbies :** Gamming, Books, RPG and other geek's things
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+![github stats](https://github-readme-stats.vercel.app/api?username=aron-dan&show_icons=true&theme=tokyonight)
+<br></br>
+![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aron-dan&layout=compact&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Kudos to https://github.com/srIsaac for designing this awesome `Readme.md`
