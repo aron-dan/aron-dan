@@ -4,7 +4,6 @@
 ### About
 
 -  **Learning :** C# and Java| Open-Source
--  **Hobbies :** Gamming, Books, RPG and other geek's things
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=aron-dan&show_icons=true&theme=tokyonight)
