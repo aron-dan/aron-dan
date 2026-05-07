@@ -43,7 +43,7 @@ Trabalho principalmente com **Zabbix**, infraestrutura de redes, e qualquer cois
 - Atualização via API a cada 5 minutos com fallback automático entre hosts
 - Estado salvo no servidor via PHP — todo mundo vê o mesmo mapa
 
-[![NetMap](https://img.shields.io/badge/Ver%20Repositório-0a0c10?style=for-the-badge&logo=github&logoColor=3b82f6)](https://github.com/aron-dan/netmap)
+[![NetMap](https://img.shields.io/badge/Ver%20Repositório-0a0c10?style=for-the-badge&logo=github&logoColor=3b82f6)]([https://github.com/aron-dan/netmap](https://github.com/aron-dan/NetMap.git))
 
 ---
 
