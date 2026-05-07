@@ -25,10 +25,21 @@ class DevProfile:
             "Network Analyst",
             "Full Stack Development"
         ]
-        self.hobbies = ["🎸 Música", "🎮 Games", "📚 Tech Books"]
+        self.hobbies = ["Churrasco com cerveja 🍗🍺"]
     
     def diga_oi(self):
-        print("Sem saber que era impossível, eu fui lá e fiz 🛸")
+        print("Sem saber que era impossível, eu fui la e soube 🛸")
 
 dev = DevProfile()
 dev.diga_oi()
+
+curiosidades_sobre_mim:
+  - "☕ Funciono à base de café (muito café!)"
+  - "🌙 Programo melhor durante a madrugada"
+  - "🎵 Escuto música enquanto codifico"
+  - "🐧 Linux enthusiast desde sempre"
+  
+filosofia_de_codigo:
+  - "Code should be self-documenting"
+  - "KISS: Keep It Simple, Stupid"
+  - "Fail fast, learn faster"
